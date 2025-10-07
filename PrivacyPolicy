@@ -1,0 +1,104 @@
+Privacy Policy — Last Stand Hold’em
+
+Effective date: October 6, 2025
+
+This Privacy Policy explains how Last Stand Hold’em (“the App”, “we”, “us”) collects, uses, and shares information when you use our iOS application.
+
+If you do not agree with this policy, please do not use the App.
+
+Who we are
+
+Developer: Lance Stupfel
+App Platform: iOS
+Hosting for this policy: GitHub
+
+What we collect
+
+We aim to collect only what we need to run the game, improve stability, and (if enabled) show ads and leaderboards.
+
+1) Data you provide
+
+Support messages: If you email us or open an issue on GitHub, we receive the content you send and your contact details.
+
+2) Data the App processes
+
+Gameplay & progress: Coins/chips, wins/losses, achievements, level progress, timers/lives state.
+
+Identifiers:
+
+Game Center (if you sign in): Apple Game Center ID, display name for leaderboards/achievements.
+
+Push notifications (if you opt in): A device token to deliver notifications.
+
+Purchases (if used): Non-sensitive purchase metadata from StoreKit to grant content (no full card data is ever handled by us).
+
+Crash & performance data: Crash logs, device model, iOS version, and basic diagnostics.
+
+Ads/analytics (if used): Ad impressions, approximate location inferred by IP, device identifiers for ad frequency capping and analytics.
+
+We do not collect your precise GPS location, contacts, photos, microphone, or camera data.
+
+How we use data
+
+Operate core features (save/restore progress, lives reset timers).
+
+Show leaderboards/achievements via Apple Game Center (optional).
+
+Deliver push notifications you opt into (e.g., lives refilled, rewards).
+
+Improve stability and performance (crash reports, diagnostics).
+
+(If enabled) Provide ads, prevent fraud, and measure ad performance.
+
+Comply with legal obligations and enforce our Terms.
+
+Legal bases (EEA/UK users)
+
+Performance of a contract (provide the App/features).
+
+Legitimate interests (security, fraud prevention, crash reporting).
+
+Consent (personalized ads, push notifications, Game Center sign-in).
+
+Sharing
+
+We don’t sell your personal data. We share limited data with service providers to operate the App:
+
+Apple: Game Center, StoreKit, push notifications (APNs).
+
+Google AdMob (if ads enabled): ad serving, frequency capping, fraud prevention.
+
+Firebase (if used): analytics, crash reporting, remote config, messaging.
+
+Error reporting (if used): crash/diagnostics vendor.
+
+Each provider processes data per its own privacy policy. We only provide the minimum necessary for their services.
+
+Data retention
+
+Gameplay/progress: kept while you use the App; deleted or anonymized after account deletion request or prolonged inactivity.
+
+Crash logs/analytics: typically 90–25 months depending on the provider’s defaults or our configuration.
+
+Legal/compliance records: retained as required by law.
+
+Children’s privacy
+
+The App is not directed to children under 13. 
+Your choices & rights
+
+Do Not Track / ATT: iOS will ask if you allow tracking for personalized ads. You can change this later in Settings → Privacy & Security.
+
+Game Center: You can sign out in Settings → Game Center.
+
+Security
+
+We use reasonable technical and organizational measures to protect data. No method of transmission or storage is 100% secure.
+
+International transfers
+
+Data may be processed outside your country. Where required, we use appropriate safeguards (e.g., SCCs for EEA/UK transfers).
+
+Changes to this policy
+
+We may update this policy from time to time. 
